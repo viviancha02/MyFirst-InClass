@@ -2,6 +2,7 @@
 디지털아트 프로그래밍 수업 내 연습
 무언가
 # 깃헙 만져보기
+_글자를 기울여보자_
 function setup() {
 }
 Function draw() {
